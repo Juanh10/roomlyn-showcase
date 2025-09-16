@@ -35,7 +35,7 @@ El código fuente del proyecto es **privado**, pero aquí encontrarás toda la i
 *(Aquí colocas capturas reales o mockups del sistema en la carpeta `/images`)*  
 
 Ejemplo:  
-![Principal](img/img2.png)  
+![Principal](img/principal.png)  
 ![Módulo Recepción](img/img3.png)  
 ![Módulo notificaciones](img/img4.png)  
 ![Módulo de reservas](img/img6.png)  
